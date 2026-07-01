@@ -1,45 +1,49 @@
-# 60 Days 60 AI Tools
+# 60 AI Tools in 60 Days
 
-A 60-day build series for shipping small, useful AI tools.
+A public build challenge by Hatim Shaherawala: one practical AI-powered tool every day for 60 days.
 
-## Goal
+## The Challenge
 
-Build one focused AI tool per day for 60 days. Each tool should solve a clear problem, be easy to run, and include enough notes for someone else to understand the idea.
+This repository tracks the source code and daily build logs for the challenge. The goal is to turn AI concepts into working products across agents, RAG, MCP, automation, machine learning, web apps, mobile experiments, hardware ideas, and developer tools.
 
-## Structure
+Each completed tool should eventually include:
 
-Each tool lives in its own root-level folder:
+- source code
+- a live demo where possible
+- a short write-up
+- a lesson learned
+- links to related posts or reels
 
-    tool-01-tool-name/
-      README.md
-      src/
+## Current Progress
 
-    tool-02-tool-name/
-      README.md
-      src/
+| Metric | Status |
+| --- | --- |
+| Tools built | 1 / 60 |
+| Current phase | Building the AI Challenge OS |
+| Current tool | AI Challenge Tracker |
+| Status | Live |
 
-## Tool Log
+## Tools
 
 | Day | Tool | Status | Notes |
 | --- | --- | --- | --- |
-| 01 | TBD | Planned | Starter folder added. |
-| 02 | TBD | Planned | Starter folder added. |
-| 03 | TBD | Planned | Starter folder added. |
-| 04 | TBD | Planned | Starter folder added. |
-| 05 | TBD | Planned | Starter folder added. |
+| 01 | AI Challenge Tracker | Live | Public dashboard for tracking the full 60-day challenge. |
 
-## Development
+More tools will be added here as they are built and published.
 
-Add each tool in its own root-level folder using this naming pattern:
+## Tool 01
 
-    tool-01-tool-name
+The first tool is the AI Challenge Tracker: a public dashboard for showing every AI tool built during the challenge, including links to code, demos, lessons, skills used, and daily write-ups.
 
-Each tool README should include:
+## Repo And Hosting Plan
 
-- what the tool does
-- how to run it
-- any required environment variables
-- what changed or was learned while building it
+The tools will be showcased on hatimshahera.com. Source code and daily build logs will live in this GitHub repository, which supports the public challenge page and the daily tool releases.
+
+## Links
+
+- Public challenge page: https://hatimshahera.com/60-days-ai
+- Public repo: https://github.com/hatimshahera/60-Days-60-AI-Tools
+- Personal website: https://hatimshahera.com
 
 ## License
 
